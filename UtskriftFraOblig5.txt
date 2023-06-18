@@ -1,0 +1,58 @@
+C:\Users\f-eiv\in3030>java -cp bin Oblig5 8 7
+================================================
+Generating test for n = 100000000.....
+n = 100000000, #threads = 8, #tests = 7
+Total number of points: 11997
+Median time for Seq (ms): 3771.099169
+Median time for Par (ms): 2221.461026
+Speedup: 1,70
+
+================================================
+Generating test for n = 10000000.....
+n = 10000000, #threads = 8, #tests = 7
+Total number of points: 3951
+Median time for Seq (ms): 475.292632
+Median time for Par (ms): 241.036342
+Speedup: 1,97
+
+================================================
+Generating test for n = 1000000.....
+n = 1000000, #threads = 8, #tests = 7
+Total number of points: 1205
+Median time for Seq (ms): 36.647126
+Median time for Par (ms): 20.950527
+Speedup: 1,75
+
+================================================
+Generating test for n = 100000.....
+n = 100000, #threads = 8, #tests = 7
+Total number of points: 413
+Median time for Seq (ms): 3.505384
+Median time for Par (ms): 3.247408
+Speedup: 1,08
+
+================================================
+Generating test for n = 10000.....
+n = 10000, #threads = 8, #tests = 7
+Total number of points: 125
+Median time for Seq (ms): 0.367012
+Median time for Par (ms): 2.761483
+Speedup: 0,13
+
+================================================
+Generating test for n = 1000.....
+[485->290->396->896->782->178->172->433->466->228->341->836->588->789->212->83->275->551->826->840->712->311->326->62->432->196->214->98->154->615->643->922->828->394->181->783->67->721->938->932->69->682->237->545->732->569->110->785]
+n = 1000, #threads = 8, #tests = 7
+Total number of points: 48
+Median time for Seq (ms): 0.026864
+Median time for Par (ms): 2.082371
+Speedup: 0,01
+
+================================================
+Generating test for n = 100.....
+[29->42->15->78->17->99->49->53->88->6->19->95->65]
+n = 100, #threads = 8, #tests = 7
+Total number of points: 13
+Median time for Seq (ms): 0.004741
+Median time for Par (ms): 2.235261
+Speedup: 0,00
